@@ -5,7 +5,7 @@ I am a collae student in Information Management who is still trying to learn som
 
   <summary>🤝 Keep in touch </summary>
 <a href='https://www.linkedin.com/in/m-iqbal-rivaldi/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href='https://instagram.com/iqbalrivaldi28'><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href='https://instagram.com/iqbalrivaldi28'><img alt="Instagram" src="https://img.shields.io/badge/iqbalrivaldi28%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
 <br />
 
