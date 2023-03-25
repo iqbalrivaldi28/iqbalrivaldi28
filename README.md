@@ -57,6 +57,8 @@ I am a student of Lampung State Polytechnic majoring in Informatics Management w
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> 
 </p>
 
+### 💻 Github Statistic
+
 <p align="left">
 <a href="https://github.com/iqbalrivaldi28">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
