@@ -1,6 +1,6 @@
 # Hi there, I'm Iqbal <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
-I am a student of Lampung State Polytechnic majoring in Informatics Management who's still trying to learn something new that will be needed by the industry now and in the future. I'm currently studying mobile development with kotlin and web development with laravel.
+I am a student of Lampung State Polytechnic majoring in Informatics Management who's still trying to learn something new that will be needed by the industry now and in the future. I'm currently studying mobile development (Native Android) with kotlin and Java.
 <br/>
 
   <summary>🤝 Keep in touch </summary>
@@ -15,13 +15,16 @@ I am a student of Lampung State Polytechnic majoring in Informatics Management w
 ### 👨‍💻 Programming Languages
 
 <p>
+  <a href="#"><img  alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <a href="#"><img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="#"><img  alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/></a>
    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
     <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
-    <a href="#"><img  alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/></a>
-    <a href="#"><img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="#"><img  alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+    
+    
+    
     
    
     
