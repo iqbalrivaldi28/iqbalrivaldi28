@@ -1,6 +1,6 @@
 # Hi there, I'm Iqbal <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
-I am a student of Lampung State Polytechnic majoring in Informatics Management who's still trying to learn something new that will be needed by the industry now and in the future. I'm currently studying mobile development (Native Android) with kotlin and Java.
+I am a student at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent.
 <br/>
 
   <summary>🤝 Keep in touch </summary>
@@ -22,8 +22,6 @@ I am a student of Lampung State Polytechnic majoring in Informatics Management w
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
@@ -31,10 +29,9 @@ I am a student of Lampung State Polytechnic majoring in Informatics Management w
 ### 💻 Software and Tools
 
 <p>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%2320232a.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
