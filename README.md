@@ -9,9 +9,9 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 <br />
 <br />
 
+---
 
 ## 🛠️ My Favorite Tools
-
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -38,6 +38,8 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> 
 </p>
 
+---
+
 ### 💻 Github Statistic
 
 <p align="left">
@@ -46,5 +48,13 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbalrivaldi28&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalrivaldi28&hide_border=true&theme=algolia">
+
+[<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iqball&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@iqball)
+
+---
+
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 
 <!--
