@@ -8,9 +8,8 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 
 ![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@iqball)&nbsp;
-[![GitHub: fachridantm](https://img.shields.io/github/followers/iqbalrivaldi28?label=follow&style=social)](https://github.com/iqbalrivaldi28)&nbsp;
+[![GitHub: iqbalrivaldi28](https://img.shields.io/github/followers/iqbalrivaldi28?label=follow&style=social)](https://github.com/iqbalrivaldi28)&nbsp;
 
-<br />
 <br />
 
   <summary>🤝 Keep in touch </summary>
@@ -56,8 +55,8 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 
 <p align="left">
 <a href="https://github.com/iqbalrivaldi28">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbalrivaldi28&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbalrivaldi28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbalrivaldi28&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
