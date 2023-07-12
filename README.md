@@ -1,11 +1,22 @@
-# Hi there, I'm Iqbal <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+# <h1 align="center"> Hi there, I'm Iqbal  <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> </h1>
 
 I am a student at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent.
 <br/>
+<br />
+
+![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@iqball)&nbsp;
+[![GitHub: fachridantm](https://img.shields.io/github/followers/iqbalrivaldi28?label=follow&style=social)](https://github.com/iqbalrivaldi28)&nbsp;
+
+<br />
+<br />
 
   <summary>🤝 Keep in touch </summary>
 <a href='https://www.linkedin.com/in/m-iqbal-rivaldi/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://instagram.com/iqbalrivaldi28'><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ 
 <br />
 <br />
 
@@ -17,6 +28,7 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 <p>
   <a href="#"><img  alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+  
 
 
 ### 🗄️ Databases and Cloud Hosting
