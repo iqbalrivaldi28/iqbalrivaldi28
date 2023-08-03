@@ -65,6 +65,7 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iqball&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@iqball)
 
 ---
+![readmebox](https://github.com/iqbalrivaldi28/iqbalrivaldi28/assets/84064388/1ac8d430-2125-4773-9fd8-fb854944dbcf)
 
 <img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 
