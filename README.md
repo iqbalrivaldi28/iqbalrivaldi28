@@ -1,12 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# <h1 align="center"> Hi there, I'm Iqbal  <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> </h1>
+# <h1 align="center"> Hi there, I'm Iqbal <img width="42px" src="https://media.giphy.com/media/5wWf7H89PisM2/giphy.gif" /> </h1>
+
 
 I am a student at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent.
 <br/>
 <br />
 
-![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)
 ![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)&nbsp;
 [![wakatime](https://wakatime.com/badge/user/b087c056-4dc0-4403-8666-03dcded11c5f.svg)](https://wakatime.com/@b087c056-4dc0-4403-8666-03dcded11c5f)
 [![GitHub: iqbalrivaldi28](https://img.shields.io/github/followers/iqbalrivaldi28?label=follow&style=social)](https://github.com/iqbalrivaldi28)&nbsp;
