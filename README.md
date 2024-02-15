@@ -6,6 +6,7 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 <br/>
 <br />
 
+![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)
 ![Visitors](https://komarev.com/ghpvc/?username=iqbalrivaldi28&style=flat&label=visitors)&nbsp;
 [![wakatime](https://wakatime.com/badge/user/b087c056-4dc0-4403-8666-03dcded11c5f.svg)](https://wakatime.com/@b087c056-4dc0-4403-8666-03dcded11c5f)
 [![GitHub: iqbalrivaldi28](https://img.shields.io/github/followers/iqbalrivaldi28?label=follow&style=social)](https://github.com/iqbalrivaldi28)&nbsp;
