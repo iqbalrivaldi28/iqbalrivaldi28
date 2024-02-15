@@ -27,6 +27,7 @@ I am a student at Lampung State Polytechnic majoring in Informatics Management. 
 <p>
   <a href="#"><img  alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="#"><img  alt="JavaScript" src="https://img.shields.io/badge/javascript%23ED8B00.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
   
 
 
