@@ -79,6 +79,6 @@ I am a fresh graduate at Lampung State Polytechnic majoring in Informatics Manag
 ---
 ![readmebox](https://github.com/iqbalrivaldi28/iqbalrivaldi28/assets/84064388/1ac8d430-2125-4773-9fd8-fb854944dbcf)
 
-<img align="center" src="https://github.com/iqbalrivaldi28/iqbalrivaldi28/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 
 <!--
