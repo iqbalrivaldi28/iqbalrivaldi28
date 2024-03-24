@@ -3,7 +3,7 @@
 # <h1 align="center"> Hi there, I'm Iqbal  <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> </h1>
 
 
-I am a fresh graduate at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent.
+I am a fresh graduate at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent. Apart from learning Android, I also learned Back-End application development using the Spring Boot framework.
 <br/>
 <br />
 
@@ -29,8 +29,10 @@ I am a fresh graduate at Lampung State Polytechnic majoring in Informatics Manag
   <a href="#"><img  alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
   <a href="#"><img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href="#"><img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 
+### ⚒️ Primary Tech
+ <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-%236DB33F.svg?&style=for-the-badge&logo=android&logoColor=white"/></a>
+ <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></a>
   
 ### 🗄️ Databases and Cloud Hosting
 
