@@ -1,6 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# <h1 align="center"> Hi there, I'm Iqbal 👋</h1>
+
+# <h1 align="center"> Hi there, I'm Iqbal [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px">](https://fachridantm.github.io/)
+ </h1> 
 
 I am a fresh graduate at Lampung State Polytechnic majoring in Informatics Management. I'm currently studying mobile development (Native Android) with kotlin and Java. I am very passionate about learning android application development and becoming a professional android developer digital talent. Apart from learning Android, I also learned Back-End application development using the Spring Boot framework.
 <br/>
