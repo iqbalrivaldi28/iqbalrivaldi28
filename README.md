@@ -1,5 +1,4 @@
-# <h1 align="center"> Hi there, I'm Iqbal [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px">](https://fachridantm.github.io/)
- </h1> 
+<h1 align="center"> Hi there, I'm Iqbal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1> 
 <h3 align="center">Has a strong passion as Software Developer</h3>
 
 <br />
@@ -17,7 +16,7 @@
 
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=iqbalrivaldi28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iqbalrivaldi28&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -58,7 +57,7 @@
 
 [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iqball&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@iqball)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalrivaldi28&theme=algolia)
+<img align="center" width="640px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalrivaldi28&theme=algolia">
 
 </div>
 
