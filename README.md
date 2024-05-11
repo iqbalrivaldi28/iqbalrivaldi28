@@ -48,17 +48,33 @@
 
  <br />
 
- <a href="https://github.com/iqbalrivaldi28">
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalrivaldi28&hide_border=true&theme=algolia">
+
+[<img  height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=iqball&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@iqball)
+
+<img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalrivaldi28&theme=algolia">
+
+<br/>
+
+<a href="https://github.com/iqbalrivaldi28">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbalrivaldi28&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbalrivaldi28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 
-<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalrivaldi28&hide_border=true&theme=algolia">
-
-[<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iqball&layout=compact&hide_border=true&theme=algolia">](https://wakatime.com/@iqball)
-
-<img align="center" width="640px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalrivaldi28&theme=algolia">
-
 </div>
 
+<br />
+
+
+<div align="center">
+
+| My Saved Articles                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------|
+| [Microservice architecture pattern](https://microservices.io/patterns/microservices.html) - [Clean code blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) |
+| [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf) - [Refactoring and design pattern](https://refactoring.guru/refactoring) |
+| [The Pragmatic Programmer (E-Book PDF)](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf) - [Object Oriented Design](https://www.oodesign.com/) |
+| [dev.java](https://dev.java/) - [gang of 4 design pattern](https://springframework.guru/gang-of-four-design-patterns/) |
+| [farnam street article](https://fs.blog/blog/) |
+
+<div />
 
