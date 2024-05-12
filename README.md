@@ -44,7 +44,7 @@
 
 <div align="center">
  
-### 💻 📈 Github Statistic
+### 💻 📈 My Github Statistic
 
  <br />
 
